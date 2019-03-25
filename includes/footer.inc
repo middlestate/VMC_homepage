@@ -1,0 +1,2 @@
+        	Visalia Medical Clinic, 5400 West Hillsdale Avenue, 559-738-7500 &copy; 2011 All rights reserved <span>|</span><a href="2013HIPAAPrivacyNotice.pdf" target="blank"> Privacy PRactices </a>
+        	<p><!-- {%FOOTER_LINK} --></p>                                                       

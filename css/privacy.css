@@ -1,0 +1,23 @@
+/* Getting the new tags to behave */
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video {
+	display:block;
+}
+mark, rp, rt, ruby, summary, time {
+	display:inline;
+}
+/* Global properties ======================================================== */
+html {
+	width:100%;
+	height:100%;
+}
+body {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:100%;
+	height:100%;
+	color:#000000;
+	min-width:750px;
+	background:#dff3fe;
+	font-size:13px;
+	line-height:20px;
+	margin:15px 15px 15px 15px;
+}
