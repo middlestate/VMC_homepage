@@ -73,14 +73,14 @@ include('includes/navigation.inc');
                         
                         
                             <li>
-                                <img src="images/page1_slide11.jpg" alt="" />
+                                < echo '<a href="http://www.vmchealth.com/findadoc.php" img src="images/page1_slide11.jpg" alt="" />
                                 <div class="banner">
 
 </strong>
                                 </div>
                             </li>
                             <li>
-                                <img src="images/page1_slide2.jpg" alt="" />
+                                <echo '<a href="http://www.vmchealth.com/pediatrics.php" img src="images/page1_slide2.jpg" alt="" />
                                 <div class="banner">
                                     VMC Pediatrics: Where
 Small people are a big deal
@@ -90,7 +90,7 @@ Small people are a big deal
                       
                             
                              <li>page1_slide44.jpg
-                                <img src="images/page1_slide88.jpg" alt="" />
+                                <echo '<a href="http://www.drlechtman.com/" img src="images/page1_slide88.jpg" alt="" />
                                 <div class="banner">
                                     
 </strong>
@@ -98,7 +98,7 @@ Small people are a big deal
                             </li>
                             
                  <li>
-                                <img src="images/page1_slide3.jpg" alt="" />
+                                <echo '<a href="http://www.vmchealth.com/portal.php" img src="images/page1_slide3.jpg" alt="" />
                                 <div class="banner">
                                     
 </strong>
@@ -109,7 +109,7 @@ Small people are a big deal
                            
                             
                              <li>
-                                <img src="images/page1_slide077.jpg" alt="" />
+                                <echo '<a href="http://www.vmchealth.com/quickcare.php" img src="images/page1_slide077.jpg" alt="" />
                                 <div class="banner">
                                     
 </strong>
@@ -117,7 +117,7 @@ Small people are a big deal
                             </li> 
                             
                              <li>
-                                <img src="images/page1_slide10.jpg" alt="" />
+                                <echo '<a href="http://visaliafootdoctor.com/" img src="images/page1_slide10.jpg" alt="" />
                                 <div class="banner">
                                     
 </strong>
@@ -125,14 +125,14 @@ Small people are a big deal
                             </li> 
                             
                              <li>
-                                <img src="images/page1_slide155.jpg" alt="" />
+                                <echo '<a href="http://www.vmchealth.com/pediatrics.php" img src="images/page1_slide155.jpg" alt="" />
                                 <div class="banner">
                                     
 </strong>
                                 </div>
                             </li>   
                                <li>
-                                <img src="images/page1_slide20.jpg" alt="" />
+                                <echo '<a href="http://visaliafootdoctor.com/" img src="images/page1_slide20.jpg" alt="" />
                                 <div class="banner">
                                     
 </strong>
